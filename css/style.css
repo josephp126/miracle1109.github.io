@@ -253,3 +253,8 @@
     padding: 3px 4px;
   }
 }
+
+.portfolio-link {
+  font-size: 24px;
+  color: white;
+}
